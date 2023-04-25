@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Tatsu-tatsu/Tatsu-tatsu/main/profile-summary-card-output/dracula/4-productive-time.svg)
-```
-
-    
